@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "declaration": true,
+    "outDir": "./dist",
+    "jsx": "react-jsx",
+    "module": "commonjs",
+    "lib": ["ES2015", "DOM"],
+    "target": "ES5",
+    "moduleResolution": "node",
+    "esModuleInterop": true
+  },
+  "include": ["src"]
+}
