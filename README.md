@@ -2,7 +2,7 @@
 # dynamic-use-api
 
 [![npm version](https://img.shields.io/npm/v/dynamic-use-api.svg)](https://www.npmjs.com/package/dynamic-use-api)
-[![npm downloads] (https://img.shields.io/npm/v/dynamic-use-api.svg)](https://www.npmjs.com/package/dynamic-use-api)
+[![npm downloads](https://img.shields.io/npm/dt/dynamic-use-api.svg)](https://www.npmjs.com/package/dynamic-use-api)
 
 A simple, lightweight React custom hook to fetch data from any API with built-in `loading`, `error`, and `data` states.
 
