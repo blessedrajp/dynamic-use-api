@@ -1,5 +1,5 @@
 {
-  "name": "dynamic-use-fetch",
+  "name": "dynamic-use-api",
   "version": "1.0.1",
   "description": "",
   "main": "dist/index.js",
@@ -9,7 +9,7 @@
 },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "react": "^19.1.0"
   },
